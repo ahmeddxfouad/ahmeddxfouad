@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/ahmed-fouad97">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=ahmeddxfouad" alt=""/>
   </div>
+   <img src="https://komarev.com/ghpvc/?username=ahmeddxfouad" alt=""/>
 
   <h1>
     Hello There
@@ -25,9 +25,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I teach programming and read tech articles.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedFouadLotfy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-fouad97)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,11 +43,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddxfouad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmeddxfouad)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddxfouad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
