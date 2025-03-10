@@ -49,4 +49,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmeddxfouad)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmeddxfouad)](https://git.io/streak-stats)
