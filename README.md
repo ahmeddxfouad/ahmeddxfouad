@@ -24,7 +24,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I teach programming and read tech articles.
+- :zap: In my free time, I teach programming and read tech articles
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,7 +46,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddxfouad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
+---
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmeddxfouad)](https://git.io/streak-stats)
